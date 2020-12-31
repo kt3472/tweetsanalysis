@@ -17,3 +17,4 @@
  - https://github.com/tweepy/tweepy
  - https://rachelsdotcom.tistory.com/72
  - https://lovit.github.io/nlp/2018/04/17/word_cloud/
+ - https://m.blog.naver.com/PostView.nhn?blogId=new27kr&logNo=221155998149&proxyReferer=https:%2F%2Fwww.google.com%2F
