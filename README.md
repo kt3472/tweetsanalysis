@@ -13,4 +13,6 @@
  - 빈도분석 : 단어 클라우드 출력
  - 상관분석 : 단어 네트워크 출력
  
-**■ Reference**
+**■ Reference** 
+ - https://github.com/tweepy/tweepy
+ - https://rachelsdotcom.tistory.com/72
